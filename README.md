@@ -1,6 +1,6 @@
 
 <div align="center">
-# Samyak Jain
+### Samyak Jain
 
 **Building at the intersection of finance, data, and software.**
 
