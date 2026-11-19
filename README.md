@@ -1,16 +1,72 @@
-## Hi there 👋
-
 <!--
-**1samyak/1samyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Profile README for github.com/1samyak
+  Keep this page focused on work, ideas, and things being built.
 -->
+
+<div align="center">
+
+# Samyak Jain
+
+**Building at the intersection of finance, data, and software.**
+
+Roorkee, India · Founder · Developer · Equity Research
+
+[Website](https://s-j.tech) · [LinkedIn](https://www.linkedin.com/in/1sj) · [EQ-T](https://eq-t.com) · [SARETY](https://sarety.com)
+
+</div>
+
+---
+
+### About
+
+I'm a third-year B.Tech student in Data Science at Quantum University, with an IIT Madras data science/programming background.
+
+I work across two closely related interests: understanding businesses through financial research, and building software that makes complex information easier to work with.
+
+Currently, I'm building **EQ-T**, an equity research platform under **SARETY**, while exploring machine learning, data engineering, and practical AI systems.
+
+### What I'm working on
+
+| Area | Focus |
+| --- | --- |
+| **EQ-T** | Research workflows, company filings, financial analysis, valuation, and forensic accounting checks |
+| **SARETY** | Building a broader collection of financial tools |
+| **Machine Learning** | Applied ML, feature engineering, model evaluation, and data science projects |
+| **Software** | Python backends, APIs, databases, and product interfaces |
+
+### Selected work
+
+- **[EQ-T](https://eq-t.com)** — Building an equity intelligence platform to make institutional-style research workflows more accessible.
+- **[SARETY](https://sarety.com)** — A financial technology venture focused on research and decision-support tools.
+- **[Hospital Management System](https://github.com/1samyak/HMS-public)** — A software project exploring application design and backend workflows.
+- **[Network Anomaly Detection](https://github.com/1samyak/Network-Anomaly-Detection-Using-MobileNetV2)** — An academic project applying MobileNetV2 to network anomaly detection.
+- **[Campus Emergency Route Finder](https://github.com/1samyak/campus-emergency-route-finder)** — A project focused on route discovery for campus emergency scenarios.
+
+### Tools I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,sqlite,redis,js,ts,react,nextjs,git,github,linux&perline=7" alt="Technology stack" />
+</p>
+
+**Also exploring:** Machine Learning · NLP · RAG · Financial modelling · Data analysis
+
+### GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1samyak&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1samyak&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=1samyak&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
+
+---
+
+<div align="center">
+
+*Interested in thoughtful products, good research, and useful software.*
+
+**जाँच-परख कर निवेश कर।**
+
+</div>
