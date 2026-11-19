@@ -1,10 +1,5 @@
-<!--
-  Profile README for github.com/1samyak
-  Keep this page focused on work, ideas, and things being built.
--->
 
 <div align="center">
-
 # Samyak Jain
 
 **Building at the intersection of finance, data, and software.**
@@ -19,7 +14,7 @@ Roorkee, India · Founder · Developer · Equity Research
 
 ### About
 
-I'm a third-year B.Tech student in Data Science at Quantum University, with an IIT Madras data science/programming background.
+I'm a Data Science Student at IIT Madras, third-year B.Tech student at Quantum University.
 
 I work across two closely related interests: understanding businesses through financial research, and building software that makes complex information easier to work with.
 
@@ -31,16 +26,13 @@ Currently, I'm building **EQ-T**, an equity research platform under **SARETY**, 
 | --- | --- |
 | **EQ-T** | Research workflows, company filings, financial analysis, valuation, and forensic accounting checks |
 | **SARETY** | Building a broader collection of financial tools |
-| **Machine Learning** | Applied ML, feature engineering, model evaluation, and data science projects |
-| **Software** | Python backends, APIs, databases, and product interfaces |
+| **Machine Learning** | Applied ML, feature engineering, model evaluation |
 
 ### Selected work
 
 - **[EQ-T](https://eq-t.com)** — Building an equity intelligence platform to make institutional-style research workflows more accessible.
 - **[SARETY](https://sarety.com)** — A financial technology venture focused on research and decision-support tools.
 - **[Hospital Management System](https://github.com/1samyak/HMS-public)** — A software project exploring application design and backend workflows.
-- **[Network Anomaly Detection](https://github.com/1samyak/Network-Anomaly-Detection-Using-MobileNetV2)** — An academic project applying MobileNetV2 to network anomaly detection.
-- **[Campus Emergency Route Finder](https://github.com/1samyak/campus-emergency-route-finder)** — A project focused on route discovery for campus emergency scenarios.
 
 ### Tools I use
 
