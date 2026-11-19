@@ -1,12 +1,13 @@
 
 <div align="center">
-### Samyak Jain
+
+  # ______Samyak Jain______
 
 **Building at the intersection of finance, data, and software.**
 
 Roorkee, India · Founder · Developer · Equity Research
 
-[Website](https://s-j.tech) · [LinkedIn](https://www.linkedin.com/in/1sj) · [EQ-T](https://eq-t.com) · [SARETY](https://sarety.com)
+[Website](https://s-j.tech) · [SARETY](https://sarety.com) · [EQ T](https://eq-t.com) · [LinkedIn](https://www.linkedin.com/in/1sj)
 
 </div>
 
