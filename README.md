@@ -7,7 +7,7 @@
 
 Roorkee, India · Founder · Developer · Equity Research
 
-[Website](https://s-j.tech) · [SARETY](https://sarety.com) · [EQ T](https://eq-t.com) · [LinkedIn](https://www.linkedin.com/in/1sj)
+[S-J](https://s-j.tech) · [SARETY](https://sarety.com) · [EQ T](https://eq-t.com) · [LinkedIn](https://www.linkedin.com/in/1sj)
 
 </div>
 
